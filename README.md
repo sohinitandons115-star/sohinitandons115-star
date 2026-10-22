@@ -22,16 +22,16 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a Software Product Engineering student at **MIT ADT University × Kalvium**, with a Diploma in Computer Engineering from **Jamia Millia Islamia (JMI)**.
 
 I enjoy building practical software, understanding how systems work behind the scenes, and exploring how AI can solve real-world problems.
 
-- 🔭 **Currently building:** Learning Roadmap Tracker and backend-focused projects
-- 🌱 **Currently learning:** TypeScript, Next.js, backend architecture, DSA in Java, and Machine Learning
-- 💡 **Interested in:** Full-Stack Development, Backend Engineering, AI/ML, and RAG systems
-- 🎯 **Goal:** Build reliable software, contribute to open source, and grow as an engineer
+-  **Currently building:** Learning Roadmap Tracker and backend-focused projects
+-  **Currently learning:** TypeScript, Next.js, backend architecture, DSA in Java, and Machine Learning
+-  **Interested in:** Full-Stack Development, Backend Engineering, AI/ML, and RAG systems
+-  **Goal:** Build reliable software, contribute to open source, and grow as an engineer
 
 <details>
 <summary><b>⚡ A little more about my journey</b></summary>
