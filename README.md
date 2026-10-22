@@ -36,10 +36,10 @@ I enjoy building practical software, understanding how systems work behind the s
 <details>
 <summary><b>⚡ A little more about my journey</b></summary>
 
-- 🧩 Practicing problem-solving and data structures using Java
-- 🛠️ Exploring REST APIs, authentication, validation, and database design
-- 🤖 Interested in AI-powered applications with real-world applications
-- 🚀 Learning by building, debugging, and improving projects
+-  Practicing problem-solving and data structures using Java
+-  Exploring REST APIs, authentication, validation, and database design
+-  Interested in AI-powered applications with real-world applications
+-  Learning by building, debugging, and improving projects
 
 </details>
 
