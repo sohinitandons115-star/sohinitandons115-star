@@ -12,7 +12,7 @@
   <a href="https://github.com/sohinitandons115-star">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack--&--Backend-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack & Backend-blue?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Exploring-AI%2FML-purple?style=for-the-badge" alt="AI/ML"/>
 </p>
 
