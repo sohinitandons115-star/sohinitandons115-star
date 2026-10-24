@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-MERN+%26+TypeScript-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Exploring-IoT%2FAgriTech-purple?style=for-the-badge" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Exploring-AI-ML-purple?style=for-the-badge" alt="AI/ML"/>
 </p>
 
 📍 India · 🎓 MIT ADT University × Kalvium
