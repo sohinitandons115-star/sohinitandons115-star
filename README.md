@@ -2,18 +2,18 @@
 
 # Hi, I'm Sohini Tandon 👋
 
-### Aspiring Full-Stack & Backend Engineer | Exploring AI/ML
+### Aspiring Software Developer | MERN Stack • TypeScript • IoT • Agri-Tech
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI%2FML+for+Practical+Impact;Learning+Backend+and+Full-Stack+Engineering" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Software+for+Real-World+Problems;Working+with+MERN+%26+TypeScript;Exploring+IoT%2C+Agri-Tech+%26+Backend+Systems" alt="Typing animation"/>
 </a>
 
 <p>
   <a href="https://github.com/sohinitandons115-star">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack & Backend-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Exploring-AI%2FML-purple?style=for-the-badge" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/Focus-MERN+%26+TypeScript-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Exploring-IoT%2FAgriTech-purple?style=for-the-badge" alt="AI/ML"/>
 </p>
 
 📍 India · 🎓 MIT ADT University × Kalvium
@@ -26,20 +26,21 @@
 
 I'm a Software Product Engineering student at **MIT ADT University × Kalvium**, with a Diploma in Computer Engineering from **Jamia Millia Islamia (JMI)**.
 
-I enjoy building practical software, understanding how systems work behind the scenes, and exploring how AI can solve real-world problems.
+I enjoy building software that connects people, devices, and data to solve real-world problems — especially in backend engineering, full-stack development, and IoT-driven systems.
 
--  **Currently building:** Learning Roadmap Tracker and backend-focused projects
--  **Currently learning:** TypeScript, Next.js, backend architecture, DSA in Java, and Machine Learning
--  **Interested in:** Full-Stack Development, Backend Engineering, AI/ML, and RAG systems
--  **Goal:** Build reliable software, contribute to open source, and grow as an engineer
+- **Currently building:** Smart Irrigation platform, backend services, and real-time dashboard features
+- **Currently learning:** TypeScript, MERN stack architecture, REST APIs, WebSockets, MQTT concepts, DSA in Java, and IoT integration
+- **Interested in:** Full-Stack Development, Backend Engineering, IoT, Agri-Tech, and real-time data systems
+- **Goal:** Build reliable software, work on impactful products, and grow into a strong software engineer
 
 <details>
 <summary><b>⚡ A little more about my journey</b></summary>
 
--  Practicing problem-solving and data structures using Java
--  Exploring REST APIs, authentication, validation, and database design
--  Interested in AI-powered applications with real-world applications
--  Learning by building, debugging, and improving projects
+- Practicing problem-solving and data structures using Java
+- Building APIs, dashboards, and backend services with clean architecture
+- Exploring real-time systems, sensor-driven applications, and device-to-platform communication
+- Interested in applying software to practical domains like agriculture, automation, and sustainability
+- Learning by building, debugging, and improving projects in meaningful ways
 
 </details>
 
@@ -64,23 +65,25 @@ I enjoy building practical software, understanding how systems work behind the s
 <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"/></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/></a>
 
-### 🗄️ Databases & Developer Tools
+### 🗄️ Databases, Real-Time & Developer Tools
 
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
+<a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio" width="48" alt="Socket.IO"/></a>
 
 </div>
 
 <details>
 <summary><b>🔬 Technologies I'm exploring</b></summary>
 
-- Machine Learning and PyTorch
-- LLM APIs and structured outputs
-- Retrieval-Augmented Generation (RAG)
-- AI-powered applications
+- TypeScript + MERN architecture
+- Real-time dashboards and WebSockets
+- MQTT, sensor data flow, and device communication
+- IoT-driven applications in agriculture and automation
+- API design, validation, and system integration
 - Testing, deployment, and CI/CD
 
 </details>
@@ -93,22 +96,22 @@ I enjoy building practical software, understanding how systems work behind the s
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Learning Roadmap Tracker
+### 🌾 Smart Irrigation
 
-A personalized learning platform that transforms learning goals into structured roadmaps with milestones, curated resources, and progress tracking.
+An IoT and data-driven farming solution designed to monitor soil moisture, weather conditions, and irrigation schedules to optimize water usage and support healthier crop growth.
 
-**Planned stack:** Next.js · TypeScript · Supabase · PostgreSQL · LLM API
+**Stack:** React · Node.js · Express · MongoDB · TypeScript · Sensor Data Integration
 
-**Status:** 🏗️ Planning and development
+**Focus:** Real-time monitoring, automation, and practical agri-tech problem solving.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📝 Blogify API
 
-A backend-focused blogging API exploring RESTful endpoints, CRUD operations, routing, middleware, authentication, and database integration.
+A backend-focused blogging API exploring RESTful endpoints, CRUD operations, routing, middleware, authentication, validation, and database integration.
 
-**Focus:** API design, validation, and maintainable backend code.
+**Focus:** Scalable backend architecture, APIs, and maintainable TypeScript code.
 
 <a href="https://github.com/sohinitandons115-star/Blogify-api">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Blogify API"/>
@@ -132,15 +135,19 @@ A support-focused application exploring frontend state management, API integrati
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Smart Irrigation
+### 📚 Learning Roadmap Tracker
 
-An IoT and data-driven farming solution designed to monitor soil moisture, weather conditions, and irrigation schedules to optimize water usage and support healthier crop growth.
+A personalized learning platform that transforms learning goals into structured roadmaps with milestones, curated resources, and progress tracking.
 
-**Focus:** Embedded systems, sensor data, and sustainable agriculture tech.
+**Planned stack:** Next.js · TypeScript · Supabase · PostgreSQL · LLM API
+
+**Status:** 🏗️ Planning and development
 
 </td>
 </tr>
 </table>
+
+> Best two projects for a resume aligned with Growloc: <b>Smart Irrigation</b> and <b>Blogify API</b>.
 
 ---
 
