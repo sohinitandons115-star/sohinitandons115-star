@@ -5,7 +5,7 @@
 ### Aspiring Full-Stack & Backend Engineer | Exploring AI/ML
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Real+Problems;Exploring+Backend+Engineering;Learning+AI%2FML+One+Step+at+a+Time;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI%2FML+for+Practical+Impact;Learning+Backend+and+Full-Stack+Engineering" alt="Typing animation"/>
 </a>
 
 <p>
@@ -132,11 +132,11 @@ A support-focused application exploring frontend state management, API integrati
 </td>
 <td width="50%" valign="top">
 
-### 🧅 Gunvatta-Netra
+### 🌾 Smart Irrigation
 
-An AI-powered onion quality-grading concept exploring image classification, transfer learning, and explainable AI for agricultural quality assessment.
+An IoT and data-driven farming solution designed to monitor soil moisture, weather conditions, and irrigation schedules to optimize water usage and support healthier crop growth.
 
-**Focus:** Computer vision and practical AI applications.
+**Focus:** Embedded systems, sensor data, and sustainable agriculture tech.
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ An AI-powered onion quality-grading concept exploring image classification, tran
 
 </div>
 
-> **Setup note:** The snake animation requires a GitHub Actions workflow in this profile repository to generate and publish the SVG to an `output` branch. Until you configure that workflow, this image may not appear.
+> **Setup note:** The snake animation requires a GitHub Actions workflow in this profile repository to generate and publish the SVG to an `output` branch. Until you configure that workflow, this image may not update automatically.
 
 ---
 
