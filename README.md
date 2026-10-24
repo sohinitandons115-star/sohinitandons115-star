@@ -2,7 +2,7 @@
 
 # Hi, I'm Sohini Tandon 👋
 
-### Aspiring Software Developer | MERN Stack • TypeScript • IoT • Agri-Tech
+### Aspiring Software Developer | MERN Stack • TypeScript • AI/ML
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Software+for+Real-World+Problems;Working+with+MERN+%26+TypeScript;Exploring+IoT%2C+Agri-Tech+%26+Backend+Systems" alt="Typing animation"/>
@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-MERN+%26+TypeScript-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Exploring-AI-ML-purple?style=for-the-badge" alt="AI/ML"/>
+  <img
+  src="https://img.shields.io/badge/Exploring-AI%2FML-6F42C1?style=for-the-badge&logo=python"
+  alt="Exploring AI/ML"
+/>
 </p>
 
 📍 India · 🎓 MIT ADT University × Kalvium
